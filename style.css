@@ -45,8 +45,8 @@ p {
 
 
     img {
-        min-width: 100%;
-        display: block; 
+        max-width: 100%;
+        min-width: 20%; 
         margin: auto;
     }
 
